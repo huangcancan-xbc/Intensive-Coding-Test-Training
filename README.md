@@ -78,7 +78,7 @@
 
 1.   [❗ 最长回文子串](https://www.nowcoder.com/practice/b4525d1d84934cf280439aeecc36f4af?tpId=182&tqId=34752&ru=/exam/oj) → **DP/马拉车/中心扩展**
 2.   [❗ 买卖股票的最好时机(一)](https://www.nowcoder.com/practice/351b87e53d0d44928f4de9b6217d36bb?tpId=230&tqId=39767&ru=/exam/oj)
-3.   [❗[NOIP2002 普及组] 过河卒](https://www.nowcoder.com/practice/cc1a9bc523a24716a117b438a1dc5706?tpId = 230&tqId = 40428&ru =/exam/oj)
+3.   [❗[NOIP2002 普及组] 过河卒](https://www.nowcoder.com/share/jump/5170733851760929820653)
 
 ### day 11
 
